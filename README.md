@@ -4,6 +4,8 @@
 2. Large Language Model : Generate the answer : LLAMA-3-8b-instruct, Gemma2, Mistral are fine-tuned using adaptor
 3. Text To Speech : Convert textual answer to speech : speecht5 model is fine-tuned
    
+📘 Full report is also available <a href = "https://github.com/Alidr79/Persian-Spoken-Dialogue-System/blob/main/Speech%20Project%20Documentation.pdf">Link</a>
+
 References :
 1. Gong, Yuan, et al. "Whisper-at: Noise-robust automatic speech recognizers are also strong general audio event taggers." arXiv preprint arXiv:2307.03183 (2023).
 2. Jiang, Albert Q., et al. "Mistral 7B." arXiv preprint arXiv:2310.06825 (2023).
@@ -15,7 +17,7 @@ References :
 <h2>Inference</h2>
 We have also implemented this work using gradio in jupyter note book which you can run it in colab.
 
-<a href =https://github.com/Alidr79/Persian-Spoken-Dialogue-System/blob/main/Assistant_on_Colab.ipynb>Note book</a>
+<a href = "https://github.com/Alidr79/Persian-Spoken-Dialogue-System/blob/main/Assistant_on_Colab.ipynb">Note book</a>
 
 <hr>
 
